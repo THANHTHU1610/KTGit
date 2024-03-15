@@ -1,0 +1,11 @@
+C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\bin\Debug\Git.exe.config
+C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\bin\Debug\Git.exe
+C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\bin\Debug\Git.pdb
+C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\obj\Debug\Git.csproj.AssemblyReference.cache
+C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\obj\Debug\Git.Form1.resources
+C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\obj\Debug\Git.Form2.resources
+C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\obj\Debug\Git.Properties.Resources.resources
+C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\obj\Debug\Git.csproj.GenerateResource.cache
+C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\obj\Debug\Git.csproj.CoreCompileInputs.cache
+C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\obj\Debug\Git.exe
+C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\obj\Debug\Git.pdb

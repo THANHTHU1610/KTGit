@@ -21,5 +21,18 @@ namespace Git
         {
 
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if ( txtUsername.Text == "admin" && txtPassword.Text == "admin" )
+            {
+                Form2 t = new Form2();
+                t.ShowDialog();
+            }
+            else
+            {
+                MessageBox.Show("Thất bại ");
+            }
+        }
     }
 }
