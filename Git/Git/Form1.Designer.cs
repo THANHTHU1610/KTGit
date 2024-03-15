@@ -43,9 +43,10 @@
             this.lbUsername.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbUsername.Location = new System.Drawing.Point(37, 102);
             this.lbUsername.Name = "lbUsername";
-            this.lbUsername.Size = new System.Drawing.Size(144, 32);
+            this.lbUsername.Size = new System.Drawing.Size(196, 32);
             this.lbUsername.TabIndex = 0;
-            this.lbUsername.Text = "Username";
+            this.lbUsername.Text = "tên đăng nhập";
+            this.lbUsername.Click += new System.EventHandler(this.lbUsername_Click);
             // 
             // txtUsername
             // 
@@ -67,9 +68,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label1.Location = new System.Drawing.Point(43, 215);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(138, 32);
+            this.label1.Size = new System.Drawing.Size(130, 32);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Password";
+            this.label1.Text = "mật khẩu";
             // 
             // txtPassword
             // 
