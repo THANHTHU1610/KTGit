@@ -32,6 +32,8 @@
             this.lbUsername = new System.Windows.Forms.Label();
             this.txtUsername = new System.Windows.Forms.TextBox();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtmatkhau = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // lbUsername
@@ -58,11 +60,31 @@
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.label1.Location = new System.Drawing.Point(43, 215);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(138, 32);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Password";
+            // 
+            // txtmatkhau
+            // 
+            this.txtmatkhau.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.txtmatkhau.Location = new System.Drawing.Point(227, 208);
+            this.txtmatkhau.Name = "txtmatkhau";
+            this.txtmatkhau.Size = new System.Drawing.Size(412, 34);
+            this.txtmatkhau.TabIndex = 3;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.txtmatkhau);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.txtUsername);
             this.Controls.Add(this.lbUsername);
             this.Name = "Form1";
@@ -77,6 +99,8 @@
         private System.Windows.Forms.Label lbUsername;
         private System.Windows.Forms.TextBox txtUsername;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txtmatkhau;
     }
 }
 
