@@ -9,3 +9,14 @@ C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\obj\Debug\Git.csproj.GenerateResource
 C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\obj\Debug\Git.csproj.CoreCompileInputs.cache
 C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\obj\Debug\Git.exe
 C:\Users\MY ASUS\Desktop\GIt\KTGit\Git\Git\obj\Debug\Git.pdb
+E:\KtraGit\KTGit\Git\Git\bin\Debug\Git.exe.config
+E:\KtraGit\KTGit\Git\Git\bin\Debug\Git.exe
+E:\KtraGit\KTGit\Git\Git\bin\Debug\Git.pdb
+E:\KtraGit\KTGit\Git\Git\obj\Debug\Git.csproj.AssemblyReference.cache
+E:\KtraGit\KTGit\Git\Git\obj\Debug\Git.Form1.resources
+E:\KtraGit\KTGit\Git\Git\obj\Debug\Git.Form2.resources
+E:\KtraGit\KTGit\Git\Git\obj\Debug\Git.Properties.Resources.resources
+E:\KtraGit\KTGit\Git\Git\obj\Debug\Git.csproj.GenerateResource.cache
+E:\KtraGit\KTGit\Git\Git\obj\Debug\Git.csproj.CoreCompileInputs.cache
+E:\KtraGit\KTGit\Git\Git\obj\Debug\Git.exe
+E:\KtraGit\KTGit\Git\Git\obj\Debug\Git.pdb
