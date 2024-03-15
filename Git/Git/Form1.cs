@@ -34,5 +34,10 @@ namespace Git
                 MessageBox.Show("Thất bại ");
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
